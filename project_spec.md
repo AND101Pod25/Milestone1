@@ -92,6 +92,8 @@ Required Feature
 ![IMG_5333.jpg](https://hackmd.io/_uploads/SyR9CiUmp.jpg)
 ![IMG_5334.jpg](https://hackmd.io/_uploads/SkMs0sL7T.jpg)
 ![Screenshot 2023-11-06 at 12.57.11 PM.png](https://hackmd.io/_uploads/rkJUwnIQp.png)
+<img width="391" alt="Screenshot 2023-11-06 at 2 13 59 PM" src="https://github.com/AND101Pod25/Milestone1/assets/40745949/af0bbfde-58a8-49a0-a79e-f9fe1dd8618e">
+<img width="390" alt="Screenshot 2023-11-06 at 2 14 08 PM" src="https://github.com/AND101Pod25/Milestone1/assets/40745949/dedf5b7a-fb05-4ffa-a14c-21bc8747aff5">
 
 
 ## [BONUS] Interactive Prototype
