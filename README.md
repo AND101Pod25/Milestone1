@@ -9,7 +9,7 @@ Submitted by:
 - **Sanjita Pokhrel**
 
 
-Time spent: **X** hours spent in total
+Time spent: **6** hours spent in total
 
 ## Summary
 
@@ -17,31 +17,29 @@ This document provides an overview, project spec, and wireframes for our team's 
 
 Elevate your daily life with Affirmo, your personal affirmation companion. Start each day with a fresh burst of positivity and motivation. Our app delivers a new, carefully crafted affirmation right to your fingertips, tailored to inspire and uplift you. Affirmo empowers you to customize your affirmations. Add your own words of encouragement, personal mantras, or cherished quotes. This app is your canvas to cultivate a mindset of confidence, self-love, and success.
 
-If we had to describe this milestone in three (3) emojis, they would be: **emojis here**
+If we had to describe this milestone in three (3) emojis, they would be: **✨🎨👯‍♀️**
 
 ## Milestone Requirements
-
-<!-- Please be sure to change the [ ] to [x] for any features you completed.  If a feature is not checked [x], you might miss the points for that item! -->
 
 The following REQUIRED features are completed:
 
 - [X] Creation of GitHub Organization and Group Project Repo
-- [ ] Updated Course Portal group info with Group Name and App Description
+- [X] Updated Course Portal group info with Group Name and App Description
 
 The following REQUIRED files are included:
 
-- [ ] Included 📄 `brainstorming.md`, which contains:
-  - [ ] Our initial brainstorming ideas (6+ ideas)
-  - [ ] 5-category evaluation of our top 3 ideas
-  - [ ] Final app idea chosen
-- [ ] Included 📄 `project_spec.md`, which contains:
-  - [ ] App Overview: Description and evaluation
-  - [ ] App Spec: User features, Chosen API(s), User Interactions
-  - [ ] Wireframe image(s)
+- [X] Included 📄 `brainstorming.md`, which contains:
+  - [X] Our initial brainstorming ideas (6+ ideas)
+  - [X] 5-category evaluation of our top 3 ideas
+  - [X] Final app idea chosen
+- [X] Included 📄 `project_spec.md`, which contains:
+  - [X] App Overview: Description and evaluation
+  - [X] App Spec: User features, Chosen API(s), User Interactions
+  - [X] Wireframe image(s)
 
 The following BONUS features are implemented:
 
-- [ ] Added digital wireframe/mockup image(s)
+- [X] Added digital wireframe/mockup image(s)
 - [ ] Added a Video/GIF of an interactive prototype
 
 The following EXTRA features are implemented:
