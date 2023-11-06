@@ -17,12 +17,41 @@ Elevate your daily life with Affirmo, your personal affirmation companion. Start
 
 <!-- Evaluation of your app across the following attributes -->
 
-- **Category: TextView and Self-help**
-- **Mobile: The app is readily available on the mobile when the user needs any affirmations instead of going to a website and searching for it.**
-- **Story: Shows the new affirmation to user each time app is opened to keep user motivated**
-- **Market: The market for this app is growing as people are gravitating towards the mental health well-being.**
-- **Habit: The user is expected to open the app when they want words of affirmation to keep themselves motivated. However, users also have the flexibility of writing their words of affirmations.**
-- **Scope: The stripped down version has a limited usage but if the app is able to function as a widget and shows notification of affirmation, the scop of use will grow extensively.**
+### Affirmation App
+Category: Health and Fitness
+* How uniquely mobile is the product experience? 
+    * The Affirmation App leverages the mobile platform to provide users with a seamless and personalized experience, taking advantage of the smaller device to provide affirmations on the go. 
+* What makes your app more than a glorified website?
+    * We aim to provide an interactive on-the-go experience for the user, allowing for affirmations to be accessed without an internet connection
+* How compelling is the story around this app once completed?
+    * It empowers users to cultivate a positive mindset and improve their mental well-being through daily affirmations. This narrative resonates with individuals seeking a proactive approach to self-improvement and mental health.
+* How clear is the value of this app to your audience?
+    * It provides a convenient and accessible tool for cultivating a positive mindset, reducing stress, and improving overall mental well-being. Users can easily integrate affirmations into their daily routines for lasting benefits.
+* How well would your friends or peers respond to this product idea?
+    * They recognize the importance of mental well-being and see the potential benefits of a convenient affirmation tool.
+* How large or unique is the market for this app?
+    * The market for mental health and self-improvement apps is substantial and continually growing. However, our app distinguishes itself by focusing specifically on daily affirmations, providing a unique and targeted solution for those seeking positivity and mental wellness.
+* What's the size and scale of your potential user base?
+    * We anticipate a substantial user base, ranging from individuals seeking stress relief and positivity in their daily lives to those actively engaged in self-improvement practices. The potential user base could extend to millions globally.
+* Does this app provide huge value to a niche group of people?
+    * Yes, the app provides significant value to a niche group of individuals who prioritize mental well-being, positivity, and personal development. It caters to users looking for a specialized tool to integrate affirmations into their routines.
+* Do you have a well-defined audience of people for this app?
+    * Yes, our well-defined audience includes individuals of various age groups who value mental well-being, positivity, and personal growth. The app appeals to a wide range of users seeking a convenient way to incorporate affirmations into their daily lives.
+* How habit-forming or addictive is this app?
+    * The app is designed to be habit-forming in a positive way. Daily affirmations can become a beneficial routine for users, providing a source of inspiration and positivity. Users may find themselves returning to the app regularly to receive their affirmations.
+* How frequently would an average user open and use this app?
+    * We anticipate an average user would open and use the app daily, in the morning or before significant activities to set a positive tone for the day.
+* Does an average user just consume your app, or do they use it to create something?
+    * The primary function of the app is to provide users with affirmations tailored to their preferences. While users primarily consume the content, they also have the option to customize their affirmation preferences, creating a personalized experience.
+* How well-formed is the scope for this app?
+    * The scope for this app is well-defined, focusing on delivering a user-friendly interface, robust affirmation delivery system. This scope is realistic and achievable within the project timeline.
+* How technically challenging will it be to complete this app by the deadline?
+    * The technical challenges are manageable, and we are confident in our ability to meet the deadline
+* Is a stripped-down version of this app still interesting to build?
+    * Yes, even a stripped-down version of the app with core functionalities like affirmation delivery would provide value and engage users
+* How clearly defined is the product you want to build?
+    * The product is well-defined and documented
+
 
 ## Product Spec
 
