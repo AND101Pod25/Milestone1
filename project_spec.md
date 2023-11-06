@@ -8,9 +8,9 @@
 1. [Build Notes](#Build-Notes)
 
 ## App Overview
+Affirmo delivers affirmations directly to your fingertips, personalized to inspire and uplift you. 
 
 ### Description 
-
 Elevate your daily life with Affirmo, your personal affirmation companion. Start each day with a fresh burst of positivity and motivation. Our app delivers a new, carefully crafted affirmation right to your fingertips, tailored to inspire and uplift you. Affirmo empowers you to customize your affirmations. Add your own words of encouragement, personal mantras, or cherished quotes. This app is your canvas to cultivate a mindset of confidence, self-love, and success.
 
 ### App Evaluation
@@ -52,11 +52,9 @@ Category: Health and Fitness
 * How clearly defined is the product you want to build?
     * The product is well-defined and documented
 
-
 ## Product Spec
 
 ### 1. User Features (Required and Optional)
-
 Required Features:
 
 - **As a user, when I open the app I want to be shown a new affirmation**
@@ -74,10 +72,8 @@ Stretch Features:
 
 - **(https://zenquotes.io/)**
   - Pulls a list of Affirmations to display in the application
-- ...
 
 ### 3. User Interaction
-
 Required Feature
 
 - **Get Affirmation**
@@ -87,6 +83,9 @@ Required Feature
 - **Write Affirmation**
     - User clicks on Write Affirmation
   - => User's written affirmation shows up on Affirmo
+  - **View Affirmation**
+    - User clicks on affirmation category
+  - => User is shown affirmation from the category
 
 ## Wireframes & [BONUS] Digital Wireframes & Mockups
 ![IMG_5333.jpg](https://hackmd.io/_uploads/SyR9CiUmp.jpg)
@@ -94,11 +93,6 @@ Required Feature
 ![Screenshot 2023-11-06 at 12.57.11 PM.png](https://hackmd.io/_uploads/rkJUwnIQp.png)
 <img width="391" alt="Screenshot 2023-11-06 at 2 13 59 PM" src="https://github.com/AND101Pod25/Milestone1/assets/40745949/af0bbfde-58a8-49a0-a79e-f9fe1dd8618e">
 <img width="390" alt="Screenshot 2023-11-06 at 2 14 08 PM" src="https://github.com/AND101Pod25/Milestone1/assets/40745949/dedf5b7a-fb05-4ffa-a14c-21bc8747aff5">
-
-
-## [BONUS] Interactive Prototype
-
-## Build Notes
 
 ## License
 
